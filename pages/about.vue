@@ -23,9 +23,9 @@ useHead({
       <div class="pa-5" style="background-color: #212121">
         <h1><img src="/logo.png" alt="loho" height="50" /></h1>
         <p>
-          amvstrm is an open source anime streaming platform that offer free
+          animxer is an open source anime streaming platform that offer free
           anime with no ADs and install it as Android or IOS web app. <br />
-          Build with Nuxt 3, Vuetify and amvstrm's V2 API.
+          Build with Nuxt 3, Vuetify and animxer's V2 API.
         </p>
         <div class="mt-2">
           <v-btn
