@@ -68,7 +68,7 @@ useHead({
           <p>
             <strong>Company</strong> (referred to as either &quot;the
             Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in
-            this Agreement) refers to amvstrm.
+            this Agreement) refers to animxer.
           </p>
         </li>
         <li>
@@ -116,7 +116,7 @@ useHead({
         </li>
         <li>
           <p>
-            <strong>Website</strong> refers to amvstrm, accessible from
+            <strong>Website</strong> refers to animxer, accessible from
             <a
               href="https://amvstr.ml"
               rel="external nofollow noopener"
